@@ -30,4 +30,4 @@ If you ever need to get in contact with someone, use the @ symbol and add there 
 
 You can also get rid of items by using a ~~strikethrough~~
 
-And in the end, you will always be good :+1:
+And in the end, you will always be :+1: if you remember your :
