@@ -20,11 +20,10 @@
   
 ### Tables are another way to organize informaiton:
 
-  First Header | Second Header
-   
-  Content | Content
-  
-  Content | Content 
+First Header | Second Header
+-------------|-------------
+Content | Content
+Content | Content 
   
 ### If you ever need to get in contact with someone, use the @ symbol and add there name
 
