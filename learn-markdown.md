@@ -21,9 +21,7 @@
 ### Tables are another way to organize informaiton:
 
   First Header | Second Header
-  
-  ----------------------------
-  
+   
   Content | Content
   
   Content | Content 
