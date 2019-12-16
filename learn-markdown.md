@@ -1,4 +1,5 @@
-Markdown
+***Markdown
+
 What is it?
   a way to style text on the web
   
@@ -10,14 +11,15 @@ If you need to get organized:
 1. Item 1
 1. Item 2
 1. Item 3
-  1. Item 3a
-  1. Item 3b
+    1. Item 3a
+    1. Item 3b
   
 Now to add some info from somewhere else:
   Images ![text](file)
   Links [text](webpage)
   
-Tables:
+Tables are another way to organize informaiton:
+
   First Header | Second Header
   ----------------------------
   Content | Content
