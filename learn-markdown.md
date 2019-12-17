@@ -18,7 +18,7 @@
   Images ![text](file)
   Links [text](webpage)
   
-### Tables are another way to organize informaiton:
+### Tables are another way to organize information:
 
 First Header | Second Header
 -------------|-------------
@@ -27,6 +27,6 @@ Content | Content
   
 ### If you ever need to get in contact with someone, use the @ symbol and add there name
 
-### You can also get rid of items by using a ~~strikethrough~~
+### You can also get rid of items by using a ~~strike through~~
 
-### And in the end, you will always be :+1: if you remember your :
+### And in the end, you will always be :+1: if you remember your +1
