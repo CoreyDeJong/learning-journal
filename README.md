@@ -1,29 +1,14 @@
 ## Learning Journal
 
 ### Growth Mindset
+ * _Perserverance_ Effort is the only thing stopping you from success.
+ * _Self-confidence_
+ * _Acknowledge fear_ It is ok to not know. 
 
-Explain "growth mindset" in your own words
-
-Include 3 reminders to yourself of how to keep yourself in a growth mindset
-1. Reminder
-2. Reminder
-3. Reminder
-
-Utilize at least 5 different features of Markdown to structure your page
-
-Be sure to introduce yourself, and include a link to your GitHub portfolio page
-My name is Corey DeJong. I enjoy the challenge of new experiences and the comfort of what I have found best in the world. {Github link}(https://github.com/CoreyDeJong)
+Remember:
+1. Accept Ambiguity
+2. Learn from feedback, negative or positive
+3. Embrace others success and learn from it.
 
 
-Stretch Goals
-
-Beef up your profile page! Add an image, a bio, contact info… as much as you feel comfortable including. Remember, this page will act as a showcase of your developer skills, so make it look great!
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
+My name is Corey DeJong. I enjoy the challenge of new experiences and the comfort of what I have found best in the world.
