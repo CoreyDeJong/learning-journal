@@ -1,6 +1,6 @@
 ## Learning Journal
 
-###Growth Mindset
+### Growth Mindset
 
 Explain "growth mindset" in your own words
 
@@ -12,6 +12,8 @@ Include 3 reminders to yourself of how to keep yourself in a growth mindset
 Utilize at least 5 different features of Markdown to structure your page
 
 Be sure to introduce yourself, and include a link to your GitHub portfolio page
+My name is Corey DeJong. I enjoy the challenge of new experiences and the comfort of what I have found best in the world. {Github link}(https://github.com/CoreyDeJong)
+
 
 Stretch Goals
 
