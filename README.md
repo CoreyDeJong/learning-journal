@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Learning Journal
 
-You can use the [editor on GitHub](https://github.com/CoreyDeJong/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###Growth Mindset
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Explain "growth mindset" in your own words
 
-### Markdown
+Include 3 reminders to yourself of how to keep yourself in a growth mindset
+1. Reminder
+2. Reminder
+3. Reminder
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Utilize at least 5 different features of Markdown to structure your page
 
-```markdown
-Syntax highlighted code block
+Be sure to introduce yourself, and include a link to your GitHub portfolio page
 
-# Header 1
-## Header 2
-### Header 3
+Stretch Goals
 
-- Bulleted
-- List
+Beef up your profile page! Add an image, a bio, contact info… as much as you feel comfortable including. Remember, this page will act as a showcase of your developer skills, so make it look great!
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoreyDeJong/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
