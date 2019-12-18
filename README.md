@@ -1,5 +1,5 @@
 ### Learning Journal
-* [Growth Mindset](https://coreydejong.github.io/learning-journal/growth-mindset.html)
+* [Growth Mindset](https://coreydejong.github.io/learning-journal/growth-mindset)
 * [Learn Markdown](https://coreydejong.github.io/learning-journal/learn-markdown)
 * [Coder's Computer](https://coreydejong.github.io/learning-journal/coders-computer)
 
