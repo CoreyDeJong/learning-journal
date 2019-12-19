@@ -2,6 +2,7 @@
 * [Growth Mindset](https://coreydejong.github.io/learning-journal/growth-mindset)
 * [Learn Markdown](https://coreydejong.github.io/learning-journal/learn-markdown)
 * [Coder's Computer](https://coreydejong.github.io/learning-journal/coders-computer)
+* [CSS](https://coreydejong.github.io/learning-journal/css/css)
 
 
 #### About Me
