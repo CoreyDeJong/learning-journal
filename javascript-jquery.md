@@ -62,16 +62,16 @@
     * Example: i = 10; i++; the result will be 11
 * % will divide the two numbers, but only returns the remainder 
 
- ## Function
- * Functions let you group a series of statements together.
- * create functions to be referenced other areas, prevents duplicating code and improves efficiency of the web browser
- * "calling" a function is when you ask to perform its task
- * steps of the function are found in the code block which is in between the {}, with no ;
- * "parameters" are pieces of information passed to the function
- * "Return value" is the the response you get from a function
+## Function
+* Functions let you group a series of statements together.
+* create functions to be referenced other areas, prevents duplicating code and improves efficiency of the web browser
+* "calling" a function is when you ask to perform its task
+* steps of the function are found in the code block which is in between the {}, with no ;
+* "parameters" are pieces of information passed to the function
+* "Return value" is the the response you get from a function
 
- ## Arguments
-  * Arguments as Values
+## Arguments
+* Arguments as Values
     * getArea(3,5)
-  * Arguments as variables
+* Arguments as variables
     * boxWidth = 3; boxHeight = 5; getArea(boxWidth, boxHeight);  
