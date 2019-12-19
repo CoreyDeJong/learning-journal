@@ -43,7 +43,9 @@
   * Status
     * git status
   * Add
-    * git add
+    * git add name of file
+    * git add .
+      * will update all documents?
   * Commit 
     * git commit -m "add why you made your changes"
   * Push

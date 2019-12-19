@@ -41,8 +41,11 @@ Manages Files | Manages Files
  | Debugger
  
  ## Terminal Basics
+  - pwd = print working directory, see what folder you are currently in
   - cd = change directory
   - ls = list files
   - rm = remove file
   - mkdir = make new directory
   - rmdir = remove directory
+  - cd . = up one folder
+  - cd .. = up to top?
