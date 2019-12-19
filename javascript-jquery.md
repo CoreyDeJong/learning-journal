@@ -37,41 +37,41 @@
  * Each individual task may be broken down into a sequence of steps.
 
 
- ## Other Stuff
-* = is assigning characters to be the same
-    * a = b
-* == is comparing the data type
-    * 5 == '5'
-* === evaluates the data type. This will be the prefered
-" 5 does not equal '5'
-* prompt will ask the user for input  
+## Other Stuff
+    * = is assigning characters to be the same
+        * a = b
+    * == is comparing the data type
+        * 5 == '5'
+    * === evaluates the data type. This will be the prefered
+    " 5 does not equal '5'
+    * prompt will ask the user for input  
 
 ## Expressions - 2 Types
-1. Expressions that just assign a value to a variable
-    * example: var color = 'beige';, the value of the color is beige
-2. Expressions that use two or more values to return a single value
-    * example: var area = 3 * 2;, the value of area is 6.
+    1. Expressions that just assign a value to a variable
+        * example: var color = 'beige';, the value of the color is beige
+    2. Expressions that use two or more values to return a single value
+        * example: var area = 3 * 2;, the value of area is 6.
 
 ## Operators
-* Expressions rely on operators, they allow programmers to create a single value from one or more values
-* String operators
-    * Example: greeting = 'Hi' + 'Molly'; the value of greeting is Hi Molly
-* Comparison Operators
-    * Example: buy = 3 > 5; the value of buy is false
-* ++ will add 1 to the current number, -- will minus 1
-    * Example: i = 10; i++; the result will be 11
-* % will divide the two numbers, but only returns the remainder 
+    * Expressions rely on operators, they allow programmers to create a single value from one or more values
+    * String operators
+        * Example: greeting = 'Hi' + 'Molly'; the value of greeting is Hi Molly
+    * Comparison Operators
+        * Example: buy = 3 > 5; the value of buy is false
+    * ++ will add 1 to the current number, -- will minus 1
+        * Example: i = 10; i++; the result will be 11
+    * % will divide the two numbers, but only returns the remainder 
 
 ## Function
-* Functions let you group a series of statements together.
-* create functions to be referenced other areas, prevents duplicating code and improves efficiency of the web browser
-* "calling" a function is when you ask to perform its task
-* steps of the function are found in the code block which is in between the {}, with no ;
-* "parameters" are pieces of information passed to the function
-* "Return value" is the the response you get from a function
+    * Functions let you group a series of statements together.
+    * create functions to be referenced other areas, prevents duplicating code and improves efficiency of the web browser
+    * "calling" a function is when you ask to perform its task
+    * steps of the function are found in the code block which is in between the {}, with no ;
+    * "parameters" are pieces of information passed to the function
+    * "Return value" is the the response you get from a function
 
 ## Arguments
-* Arguments as Values
-    * getArea(3,5)
-* Arguments as variables
-    * boxWidth = 3; boxHeight = 5; getArea(boxWidth, boxHeight);  
+    * Arguments as Values
+        * getArea(3,5)
+    * Arguments as variables
+        * boxWidth = 3; boxHeight = 5; getArea(boxWidth, boxHeight);  
