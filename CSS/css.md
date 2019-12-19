@@ -13,3 +13,6 @@
 ## 3 Methods of Selecting HTML Elements
  1. Class
  2. id
+
+ ## Selector
+  * .name
