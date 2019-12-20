@@ -69,6 +69,8 @@
     * steps of the function are found in the code block which is in between the {}, with no ;
     * "parameters" are pieces of information passed to the function
     * "Return value" is the the response you get from a function
+    * Functions are invoked by using paranthesis?
+    * sudo
 
 ## Arguments
     * Arguments as Values
@@ -76,4 +78,3 @@
     * Arguments as variables
         * boxWidth = 3; boxHeight = 5; getArea(boxWidth, boxHeight);  
 
-## Loops
