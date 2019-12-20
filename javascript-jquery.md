@@ -75,3 +75,5 @@
         * getArea(3,5)
     * Arguments as variables
         * boxWidth = 3; boxHeight = 5; getArea(boxWidth, boxHeight);  
+
+## Loops
