@@ -26,6 +26,9 @@
   * 3 main conditions components
    1. Initialization. Example: var i = 0;
    2. Condition. Example i<10;
-   3. Update. Example i++
+   3. Update. Example i++ or i+=50
+  * for (condition 1; condition 2; condition 3){code}
  * While loop
-  * if you don't know how many times a code should run 
+  * if you don't know how many times a code should run
+  * condition 1; while (condition 3){code; condition 2} 
+  *Nested For Loops is a loop within a loop

@@ -1,6 +1,24 @@
 
 
 
+
+#name to link to an id in html
+
+h1 {color: yellow;}
+/* - h1 is the selector
+- {color: yellow;} is the declaration
+- color: is the property
+- yellow is the value */
+
+/* Selectors */
+h1{} type selector
+.specific name{} class selector
+
+
+
+
+
+
 article [
     float: left;
     width: 33%

@@ -10,9 +10,10 @@
  * Colors can be identified as RGB, HEX Codes, Color Names
  * opacity:
 
-## 3 Methods of Selecting HTML Elements
- 1. Class
- 2. id
+## Selectors for HTML Elements
+ 1. Type: just use h1 {}
+ 2. Class: .sepcificname{} <!--don't forget the period before the name -->
+ 2. id: #specificname{} <!--only used to style one specific element, cannot be repeated-->
 
  ## Selector
   * .name

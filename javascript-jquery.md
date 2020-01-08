@@ -1,5 +1,18 @@
 # Javascript and jQuery
 
+## Conditions
+ * If
+ * Swtich
+
+## upper/lower case
+ * if(variable name.toLowerCase() === "lowercase word"{}
+ * if(variable name.toUpperCase() === "UPPERCASE WORD"){}
+
+## Arrays
+ * index are the items inside the array
+ * length of the items is the total number of index items
+
+
 ## Javascript
  * Javascript is the third layer of a web page that enhances the usability and experience by interacting with the site
  * It is important to keep this layer seperate from HTML and CSS so the site will continue to have content if the Javascript does not work.
@@ -37,14 +50,18 @@
  * Each individual task may be broken down into a sequence of steps.
 
 
-## Other Stuff
+## Equals
     * = is assigning characters to be the same
         * a = b
     * == is comparing the data type
         * 5 == '5'
     * === evaluates the data type. This will be the prefered
     " 5 does not equal '5'
-    * prompt will ask the user for input  
+    * prompt will ask the user for input
+    Equal
+        = assigns value 
+        == is equal to or != is not equal to 
+        === strict equal to or !== is strict not equal to  
 
 ## Expressions - 2 Types
     1. Expressions that just assign a value to a variable
@@ -111,4 +128,9 @@
     * ellipse(mouseX, mouseY, 12, 12); 
     * var label = mouseX+","+mouseY;
     * text(label,mouseX, mouseY);};
+
+## Debugging
+    *println("clicked"); in the function you want to test, will show clicked if that function is working
+
+
 

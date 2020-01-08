@@ -1,3 +1,31 @@
+# Git
+ * Git is a local source control, not connected to the internet, just your computer
+ * Commits are saved versions of a file without having to rename the file
+  - Head is the most recent commit
+ * Master branch is the main source of your control
+ * Repositories are folders with code files inside
+
+# Github
+  * Github is the cloud where you share your git files
+  * Github has copies of the repositories/folders
+  * Cloning is copying a repo from github to git
+
+## New Github repo
+  * create repot on github
+    * readme is the default file when you create a clone
+  * make new directory on your terminal
+  * git clone github link
+  * insertions are how many lines of code are changed when ACP
+  * git push origin master
+    * origin is your computer
+    * master is the github master branch. this can change to a different branch
+  * updating github, do a gitpull to get info from github to your local git
+  * gitfetch will just see what the difference is between github and let you know if you have any conflicts whereas gitpull will transfer the files
+  
+
+Links don't need to add the actual link, just the flie name
+
+
 # Git-Revisions-and-the-Cloud
 
 ## Version Control
