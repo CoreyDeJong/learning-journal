@@ -14,8 +14,8 @@ h1 {color: yellow;}
 h1{} type selector
 .specific name{} class selector
 
-
-
+/* font Color */
+color: black 
 
 
 
@@ -28,6 +28,7 @@ li{
     display: inline-block;
 }
 
+/* Section is similar to a div or an article, generic way to define a group of elements */
 section{
     float: left;
     width: 50%;
@@ -50,6 +51,7 @@ main{
     background-color: red;
 }
 
+
 footer{
     height:
     background-color: yellow;
@@ -69,3 +71,9 @@ span{
     line-height: 80%;
     float: left;
 }
+
+position: sticky; /* will keep the element in view as you scroll
+position: absolute;
+
+
+//Layouts

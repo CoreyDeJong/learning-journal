@@ -9,7 +9,8 @@
 
 
 
-
+<!DOCTYPE html> is HTML5. This tells the browser you are using version 5 of html.
+<head> is the meta data, information about the website, links to css, js files, information for search engines
 <p> paragraph 
 <img> is an image 
 <em> when you want to emphasize a word, the browser will show the word in italicazed.  
@@ -20,6 +21,7 @@
 <li> list item 
 <div> group items together, but becomes difficult to maintain organization
 <title> is what will be displayed in the webiste browser name, not on the site
+<script> where you can place link for javascript, can also be placed in the <head> but will impact the run time of opening the website.
 
 moving a line of code by highlighting your code, select alt and use up/down arrows
 
@@ -29,7 +31,7 @@ Selectors
     - .specificName{} in CSS
  - ID
     - <h1 id="specificName">text you want in header 1</h1> in html
-    - #specificName in CSS
+    - #specificName{} in CSS
 
 link to CSS file should be placed
 
